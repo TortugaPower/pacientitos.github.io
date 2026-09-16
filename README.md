@@ -10,6 +10,7 @@ Repositorio de la app: [PatientJournal-iOS](https://github.com/TortugaPower/Pati
 | Ruta | Descripción |
 |---|---|
 | `index.html` | Landing page — también es la **Support URL** de App Store Connect |
+| `icon.png` | Ícono de la app (1024×1024, copiado de `AppIcon.appiconset/ItunesArtwork@2x.png`) — logo y favicon |
 | `privacidad.md` | Política de Privacidad → `/privacidad/` |
 | `privacy.md` | Privacy Policy (inglés) → `/privacy/` |
 | `_layouts/legal.html` | Plantilla de las páginas legales |
